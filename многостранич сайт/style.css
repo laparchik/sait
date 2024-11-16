@@ -1,0 +1,690 @@
+body {
+    max-width: 1440px; /* Максимальная ширина страницы в пикселах */ 
+   }
+   *{
+    margin: 0;
+    padding: 0;
+   }
+
+   header {
+    display: flex;
+    margin: 34px 72px 20px 70px;
+    border-bottom: 1px solid #323334;
+    padding-bottom: 20px;
+   }
+   .names_header {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+   }
+
+   .image1_header {
+    margin: 3px 0 0 798px;
+   }
+   .image2_header {
+    margin: 5px 40px 0 37px;
+   }
+   .image3_header {
+    margin: 0px 37px 0 0;
+   }
+   .image4_header {
+    margin-top: 5px;
+   }
+
+   .header_two {
+    display: flex;
+    margin-left: 72px;
+    border-bottom: 1px solid #323334;
+    padding-bottom: 38px;
+    padding-left: 140px;
+    margin-right: 72px;
+    padding-top: 15px;
+}
+.store {
+    margin: 0 69px;
+}
+.brand {
+    margin: 0 69px;
+}
+.about_us {
+    margin: 0 69px;
+}
+.news {
+    margin: 0 69px 0 0;
+}
+   .image_and_menu {
+    display: flex;
+   }
+
+   .logo_gruzovic {
+    margin: 25px 52px 31px 182px;
+   }
+
+   .free_shiping {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 49px 276px 15px 0;
+   }
+
+   .logo_cake {
+    margin: 45px 15px 13px 0;
+   }
+
+   .money_back {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 60px 345px 13px 0;
+   }
+
+   .logo_headphone {
+    margin: 40px 9px 17px 0;
+   }
+.support  {
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 12px;
+   line-height: 14px;
+   color: rgba(0, 0, 0, 0.5);
+   margin: 47px 190px 17px 0;
+}
+
+.block_sale_v_image {
+    bottom: 420px;
+    left: 750px;
+    position: relative;
+    margin-bottom: -220px;
+}
+
+.hot_deals {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    color: #323334;
+}
+
+.sale_up {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #A86A3D;
+    width: 530px;
+    margin: 25px 0 40px 0;
+}
+
+.view_now {
+    border: 1px solid #323334;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #323334;
+    width: 124px;
+    height: 30px;
+    padding-top: 15px;
+}
+
+.block_two_image {
+    display: flex;
+    margin-bottom: 57px;
+}
+
+.block_chair {
+    background: #FAFAFA;
+    margin: 0 23px 0 73px;
+    height: 368px;
+    width: 690px;
+}
+
+.block_chair_text {
+    display: flex;
+}
+
+.text_chair {
+    margin: 150px 61px 40px 0;
+}
+
+.iny_vintage {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+    width: 290px;
+}
+
+.view_details {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #323334;
+    border: 1px solid #323334;
+    width: 124px;
+    text-align: center;
+}
+
+.block_vase {
+    background: #EAE9E7;
+    width: 600px;
+}
+
+.block_vase_text {
+    display: flex;
+}
+
+.text_vase {
+    margin: 111px 138px 97px 1px;
+}
+.large_teracota {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    width: 290px;
+    line-height: 33px;
+    color: #323334;
+}
+
+.view_details {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #323334;
+    border: 1px solid #323334;
+    width: 124px;
+    text-align: center;
+    height: 30px;
+    padding-top: 15px;
+    margin-top: 40px;
+
+}
+
+.bloks_decor_3bloks {
+    display: flex;
+    margin-left: 73px;
+
+}
+.text_decor {
+    position: relative;
+    bottom: 410px;
+    margin-left: 46px;
+    margin-bottom: -150px;
+}
+
+.decor {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.lorem_ipsum {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    width: 210px;
+    margin: 30px 0;
+}
+
+.view_all {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    border: 1px solid #ffffff;
+    width: 124px;
+    text-align: center;
+    height: 30px;
+    padding-top: 15px;
+    color: #FFFFFF;
+}
+
+.one_img_towel {
+    margin: 0px 30px;
+}
+
+.linen_beach {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #323334;
+    margin: 32px 0 13px 0;
+}
+
+.dollar {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #323334;
+    margin-top: 15px;
+}
+
+.two_img_box {
+    margin: 0 30px 0 0;
+}
+
+.bohochik_decor_3bloks {
+    display: flex;
+}
+
+.bohochik_decor_3bloks {
+    display: flex;
+    margin-left: 73px;
+}
+
+.two_img_placemant {
+    margin: 0px 30px;
+}
+
+.three_img_basket {
+    margin: 0 30px 0 0;
+}
+
+.block_text_sofa {
+    background: rgba(255, 255, 255, 0.9);
+    position: relative;
+    bottom: 405px;
+    width: 545px;
+    height: 338px;
+    margin-left: 147px;
+    margin-bottom: -240px;
+}
+
+.bedsheet {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+    padding: 61px 0 27px 130px;
+
+}
+.chena {
+    display: flex;
+    padding: 0 0 16px 130px; 
+}
+
+.fifty_dollars {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #7B5136; 
+}
+
+.twohundred_dollars {
+    display: flex;
+    align-items: center;
+    margin-left: 26px;
+}
+
+.text_loremips {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    width: 312px;
+    height: 44px;
+    color: #323334;
+    padding: 0 0 16px 130px;
+}
+
+.view_details1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 16px;
+    border: 1px solid #000000;
+    width: 124px;
+    text-align: center;
+    height: 30px;
+    padding-top: 15px;
+    color: #000000;
+    margin-left: 130px;
+}
+
+.top_rating {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    color: #323334;
+    margin: 0 0 50px 73px;
+}
+
+.bloks_po3_img_9img {
+    display: flex;
+    margin-left: 72px;
+}
+
+.img_text1 {
+    display: flex;
+}
+.img_text2 {
+    display: flex;
+    margin: 24px 0;
+}
+.img_text3 {
+    display: flex;
+}
+
+.text1_three {
+    width: 120px;
+    margin: 77px 0 0 32px;
+}
+
+.linen_beach {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #323334;
+    margin: 32px 0 13px 0;
+}
+
+.dollar {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #323334;
+    margin-top: 15px;
+}
+
+.bloks_3img2 {
+    margin: 0 105px;
+}
+
+.load_more {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #323334;
+    width: 270px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 71px;
+    margin: 87px 535px 103px 530px;
+}
+
+.sign_up_email  {
+    display: flex;
+    margin-left: 79px;
+    margin-bottom: 110px;
+}
+
+.sign_up {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+    width: 450px;
+}
+
+.subscribe {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: capitalize;
+    color: #323334;
+    margin-top: 8px;
+}
+
+.sign {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+    width: 450px;
+}
+
+.email {
+    display: flex;
+    margin-left: 260px;
+}
+
+input {
+    width: 515px;
+    height: 48px;
+    border: 1px solid #323334;
+}
+
+.four_bloks_footer {
+    background: #323334;
+    display: flex;
+    height: 447px;
+}
+
+.bloks_footer1 {
+    margin: 57px 127px 0 74px;
+}
+
+.urban {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.lorem_footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 312px;
+    margin: 41px 0;
+}
+
+.king {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.plus61_3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin: 8px 0;
+}
+
+.contact {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.logotype_footer {
+    margin: 55px 0 0 0;
+}
+
+.shop {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.yuor_cart {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.your_orders {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.compr_items {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.wish_items {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.ship_detal {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+
+.urban_out {
+    background: #222222;
+}
+
+.urban_out_text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    padding: 18px 588px;
+
+}
+
+.bloks_footer2 {
+    margin: 50px 128px 0 0;
+}
+
+
+
+.bloks_footer4 {
+    margin: 50px 128px 0 0;
+}
+
+.bloks_footer5 {
+    margin: 50px 0 0 0;
+}
+
+.yuor_cart {
+    margin: 34px 0 16px 0;
+    display: flex;
+}
+
+.compr_items {
+    margin: 16px 0 16px 0;
+}
+
+.ship_detal {
+    margin-top: 16px;
+}
+
+.lorem_ips_footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    width: 312px;
+    margin: 10px 0;
+}
+
+.coments {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.line {
+    margin: 33px 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

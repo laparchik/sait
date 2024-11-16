@@ -1,0 +1,577 @@
+body {
+    max-width: 1440px;
+    /* Максимальная ширина страницы в пикселах */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    margin: 34px 72px 20px 70px;
+    border-bottom: 1px solid #323334;
+    padding-bottom: 20px;
+}
+
+.names_header {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #323334;
+}
+
+.image1_header {
+    margin: 3px 0 0 798px;
+}
+
+.image2_header {
+    margin: 5px 40px 0 37px;
+}
+
+.image3_header {
+    margin: 0px 37px 0 0;
+}
+
+.image4_header {
+    margin-top: 5px;
+}
+
+.header_two {
+    display: flex;
+    margin-left: 72px;
+    border-bottom: 1px solid #323334;
+    padding-bottom: 38px;
+    padding-left: 140px;
+    margin-right: 72px;
+    padding-top: 15px;
+}
+
+.store {
+    margin: 0 69px;
+}
+
+.brand {
+    margin: 0 69px;
+}
+
+.about_us {
+    margin: 0 69px;
+}
+
+.news {
+    margin: 0 69px 0 0;
+}
+
+.home_page_brand {
+    margin: 54px 0px 54px 620px;
+}
+
+.also {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #323334;
+    margin: 0 0 40px 75px;
+}
+
+.four_bloks_also {
+    display: flex;
+}
+
+.strelkavlevo_four_also {
+    margin: 170px 26px 0 26px;
+}
+
+.two_img_blanket {
+    margin: 0 26px 0 22px;
+}
+
+.three_img_blanket {
+    margin-right: 26px;
+}
+
+.strelkavpravo_four_also {
+    margin: 170px 28px 0 17px;
+}
+
+.linen_beach {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #323334;
+    margin: 32px 0 13px 0;
+}
+
+.dollar {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #323334;
+    margin-top: 15px;
+}
+
+
+
+.urban_out {
+    background: #222222;
+}
+
+.urban_out_text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    padding: 18px 588px;
+
+}
+
+.bloks_footer2 {
+    margin: 50px 128px 0 0;
+}
+
+
+
+.bloks_footer4 {
+    margin: 50px 128px 0 0;
+}
+
+.bloks_footer5 {
+    margin: 50px 0 0 0;
+}
+
+.yuor_cart {
+    margin: 34px 0 16px 0;
+    display: flex;
+}
+
+.compr_items {
+    margin: 16px 0 16px 0;
+}
+
+.ship_detal {
+    margin-top: 16px;
+}
+
+.lorem_ips_footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    width: 312px;
+    margin: 10px 0;
+}
+
+.coments {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+.line {
+    margin: 33px 0;
+}
+
+.four_bloks_footer {
+    background: #323334;
+    display: flex;
+    height: 447px;
+    margin-top: 116px;
+}
+
+.bloks_footer1 {
+    margin: 57px 127px 0 74px;
+}
+
+.urban {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.lorem_footer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 0.5);
+    width: 312px;
+    margin: 41px 0;
+}
+
+.king {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.plus61_3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin: 8px 0;
+}
+
+.contact {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.logotype_footer {
+    margin: 55px 0 0 0;
+}
+
+.shop {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.yuor_cart {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.your_orders {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.compr_items {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.wish_items {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.ship_detal {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.shop_bag {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #323334;
+    margin: 60px 0px 60px 597px;
+}
+
+.blog_log_image {
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.main_totalone {
+    display: flex;
+}
+
+.main_totaltwo {
+    display: flex;
+}
+
+.continue {
+    background: rgba(236, 235, 233, 0.7);
+    width: 510px;
+}
+
+.image_total_one {
+    display: flex;
+}
+
+.image_total_two {
+    display: flex;
+}
+
+.add_a {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    margin: 62px 0 6px 47px;
+    color: #323334;
+}
+
+input {
+    width: 330px;
+    height: 54px;
+}
+
+.log_in {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    margin: 29px 0 11px 47px;
+    color: #323334;
+}
+
+.log_in_button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #0e0d0d;
+    background: hwb(0 100% 0%);
+    width: 236px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 180px;
+    margin-left: 47px;
+    border: 1px solid black;
+}
+
+.send_add {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #323334;
+    width: 56px;
+    height: 38px;
+    padding-top: 20px;
+    padding-left: 19px;
+
+}
+
+.continue_chekout {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #323334;
+    width: 305px;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 111px;
+    margin-left: 47px;
+}
+
+.order_money {
+    display: flex;
+}
+
+.shipping_money {
+    display: flex;
+}
+
+.total_money {
+    display: flex;
+}
+
+.input_add {
+    display: flex;
+    margin-left: 47px;
+}
+
+.total_nad_line {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #323334;
+    margin-left: 665px;
+    margin-top: 24px;
+
+}
+
+.total_eight_dollar {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: right;
+    color: #323334;
+}
+
+.total {
+    margin: 0 82px;
+}
+
+.close_chek {
+    margin-left: auto;
+}
+
+.main_totaltwo {
+    margin-top: 45px;
+}
+
+.total_line {
+    margin: 13px 0;
+}
+
+.three_nine_dollar {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #323334;
+    margin: 17px 0 25px 0;
+}
+
+.cheked_duvet {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #323334;
+}
+
+.art_no {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #323334;
+}
+
+.color {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #323334;
+    margin: 4px 0 30px 0;
+}
+
+.total_chek {
+    margin-left: 18px;
+}
+
+.total_tossel {
+    margin-left: 18px;
+}
+
+.order_money {
+    margin: 50px 0 0 47px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #323334;
+}
+.eight_two_dollar {
+    margin-left: 300px;
+}
+
+.shipping_money {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #323334;
+    margin: 10px 0 15px 47px;
+}
+
+.null_dollar {
+    margin-left: 335px;
+}
+
+.total_money {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: flex-end;
+    color: #323334;
+    margin: 10px 0 15px 47px;
+}
+
+.total_dollar {
+    margin-left: 343px;
+}
+
